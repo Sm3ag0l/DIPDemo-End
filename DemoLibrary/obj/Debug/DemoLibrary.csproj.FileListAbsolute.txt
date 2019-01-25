@@ -4,3 +4,9 @@ C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+G:\S\TimCorey\DIPDemo-End\DemoLibrary\bin\Debug\DemoLibrary.dll
+G:\S\TimCorey\DIPDemo-End\DemoLibrary\bin\Debug\DemoLibrary.pdb
+G:\S\TimCorey\DIPDemo-End\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+G:\S\TimCorey\DIPDemo-End\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+G:\S\TimCorey\DIPDemo-End\DemoLibrary\obj\Debug\DemoLibrary.dll
+G:\S\TimCorey\DIPDemo-End\DemoLibrary\obj\Debug\DemoLibrary.pdb

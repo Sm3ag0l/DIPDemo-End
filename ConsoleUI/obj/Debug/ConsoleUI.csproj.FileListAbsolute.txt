@@ -8,3 +8,13 @@ C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\Co
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\bin\Debug\ConsoleUI.exe
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\bin\Debug\ConsoleUI.pdb
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\bin\Debug\DemoLibrary.dll
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\bin\Debug\DemoLibrary.pdb
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\obj\Debug\ConsoleUI.exe
+G:\S\TimCorey\DIPDemo-End\ConsoleUI\obj\Debug\ConsoleUI.pdb
